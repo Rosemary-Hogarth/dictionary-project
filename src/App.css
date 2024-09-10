@@ -20,8 +20,14 @@ body {
   font-size: 10px;
   text-align: center;
   color: #F4F1E9;
+  margin-bottom: 10px;
 }
 
 .code {
   color:#B0738E;
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
 }

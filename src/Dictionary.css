@@ -10,8 +10,9 @@
 
 .Dictionary input {
   width: 100%;
-  border: 1px solid #F4F1E9;
-  padding: 8px 10px;
+  border: 1px solid #ddd;
+  padding: 10px 15px;
+  font-size: 22px;
 }
 
 .Dictionary .hint {
