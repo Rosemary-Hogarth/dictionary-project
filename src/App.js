@@ -14,7 +14,12 @@ export default function App() {
         </main>
       </div>
       <footer>
-        Coded by Rosemary Hogarth and open-sourced on GitHub
+        Coded by Rosemary Hogarth and open-sourced on <a
+        href="https://github.com/Rosemary-Hogarth/dictionary-project"
+        target="_blank"
+        rel="noreferrer"
+        class="code"
+      >GitHub</a>
       </footer>
     </div>
   );

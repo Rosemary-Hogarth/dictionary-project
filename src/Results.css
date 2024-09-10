@@ -1,3 +1,16 @@
-.Results {
-  text-align: left;
+.Results h2 {
+  font-size: 36px;
+  font-weight: 600;
+  color: #3B4A58;
+
+
+
+}
+
+.Phonetic {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #666;
+  display: inline;
 }

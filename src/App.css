@@ -2,12 +2,26 @@
   margin: 0 auto;
 }
 
-header, footer {
-  text-align: center;
-  margin-top: 30px;
+body {
+  background-color:black;
+}
+.App header {
+  border-radius: 5px;
+  margin: 30px auto;
+  color: #F4F1E9;
+  padding: 10px 83px;
+  background-color: #B0738E;
+  width: 60px;
+  height: 80px;
 }
 
 
-footer {
+.App footer {
   font-size: 10px;
+  text-align: center;
+  color: #F4F1E9;
+}
+
+.code {
+  color:#B0738E;
 }

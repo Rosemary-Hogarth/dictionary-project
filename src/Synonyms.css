@@ -1,0 +1,8 @@
+
+.Synonyms li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 15px;
+  font-size: 14px;
+  color: #3D4E56
+}
