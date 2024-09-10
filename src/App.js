@@ -9,8 +9,8 @@ export default function App() {
         <header className="App-header">
           <h1>Dictionary</h1>
         </header>
+        <Dictionary />
         <main>
-          <Dictionary />
         </main>
       </div>
       <footer>
