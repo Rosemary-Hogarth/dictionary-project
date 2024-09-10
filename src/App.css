@@ -9,12 +9,17 @@ body {
   border-radius: 5px;
   margin: 30px auto;
   color: #F4F1E9;
-  padding: 10px 83px;
+  padding: 10px 78px;
   background-color: #B0738E;
   width: 60px;
   height: 80px;
 }
 
+.App h1 {
+  position: relative;
+  top: 15px;
+  font-size: 40px;
+}
 
 .App footer {
   font-size: 10px;
@@ -30,4 +35,10 @@ body {
 .App {
   max-width: 960px;
   margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .App h1 {
+    font-size: 30px;
+  }
 }

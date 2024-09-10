@@ -2,9 +2,6 @@
   font-size: 36px;
   font-weight: 600;
   color: #3B4A58;
-
-
-
 }
 
 .Phonetic {
@@ -13,4 +10,10 @@
   line-height: 19px;
   color: #666;
   display: inline;
+}
+
+@media (max-width: 768px) {
+  .definition {
+    font-size: 18px;
+  }
 }
