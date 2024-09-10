@@ -9,7 +9,7 @@ body {
   border-radius: 5px;
   margin: 30px auto;
   color: #F4F1E9;
-  padding: 10px 78px;
+  padding: 10px 60px;
   background-color: #B0738E;
   width: 60px;
   height: 80px;
@@ -40,5 +40,13 @@ body {
 @media (max-width: 768px) {
   .App h1 {
     font-size: 30px;
+    position: relative;
+  top: 3px;
+  }
+
+  .App header {
+   height: 50px;
+
+   padding: 10px 30px;
   }
 }
